@@ -50,11 +50,11 @@ nav ul li a{
  font-weight:bold;
 }
 .model{
- height:530px;
+ height:500px;
  position:absolute;
- bottom:40px;
- left:75%;
- transform: translateX(-75%);
+ bottom:110px;
+ left:70%;
+ transform: translateX(-65%);
 }
 .text-container p:nth-child(1){
  font-family: calibri;
